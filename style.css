@@ -1,0 +1,41 @@
+.container{
+	display: none;
+}
+
+.coverHeight{
+	height:300px;
+	width:80vw;
+	overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.profileHeight{
+	border-radius: 5px;
+	margin:4.5em 1em 1em 0;
+	border:0.5vw solid white;
+	box-shadow: 1px 1px 1px 1px silver
+}
+
+.userdetails{
+	margin:2vh;
+	height: auto;
+	border: 2px solid black;
+	border-radius: 4px;
+}
+
+.rowStyle{
+	margin:1em 1em 1em ;
+}
+
+
+.heading{
+	text-align:center;	
+	font-weight: bold;
+	font-size: 24px;
+	padding:2px;
+}
+
